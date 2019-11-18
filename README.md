@@ -1,2 +1,2 @@
 # JAVA
-JAVA codes
+Introductory JAVA Course Assignments
