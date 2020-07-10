@@ -1,2 +1,2 @@
 # JAVA
-Introductory JAVA Course Assignments
+JAVA Course Assignments
